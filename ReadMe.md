@@ -12,21 +12,6 @@ My ultimate goal is to thoroughly understand **Generative AI** and the mechanics
 
 By implementing these Diffusion models, I am isolating the specific techniques that allow computers to "dream" up new images from noise.
 
-## 📂 What's Inside?
-
-You will find **3 distinct instances** of diffusion models in this repo. Each represents a step forward in my understanding:
-
-1.  **Instance 1: The Foundation**
-    *   *Focus:* Basic forward and backward diffusion processes.
-    *   *Goal:* Getting the noise scheduler working correctly.
-
-2.  **Instance 2: The Architecture**
-    *   *Focus:* Improving the U-Net backbone and attention mechanisms.
-    *   *Goal:* Better stability and image coherence.
-
-3.  **Instance 3: The Refinement**
-    *   *Focus:* Optimizations and sampling techniques.
-    *   *Goal:* Faster generation and higher fidelity results.
 
 ## 🤖 Humans & AI Working Together
 
@@ -42,14 +27,10 @@ If you'd like to run these experiments yourself:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/diffusion-practice.git
+git clone https://github.com/minhos0430/GenerativeAIPractice
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the first instance
-python instance_1_basic.py
 ```
+Or download the notebooks and upload them to google colab as they were run there. You can see the results directly. Not sure why you would do that but it does sound nice. 
 
 ## 🤝 Connect
 
